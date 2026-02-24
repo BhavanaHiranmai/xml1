@@ -1,0 +1,84 @@
+<?xml version ="1.0" encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="user.xsl"?>
+
+<Users>
+    <User>
+        <ID>1</ID>
+        <Name>Bhavana Hiranmai</Name>
+        <Role>Student</Role>
+        <Department>Computer Science</Department>
+        <Email>bhavana.hiranmai@example.com</Email>
+    </User>
+
+    <User>
+        <ID>2</ID>
+        <Name>Meghana Verma</Name>
+        <Role>Faculty</Role>
+        <Department>Mathematics</Department>
+        <Email>meghana.verma@example.com</Email>
+    </User>
+
+    <User>
+        <ID>3</ID>
+        <Name>Vijaya Sri</Name>
+        <Role>Student</Role>
+        <Department>Physics</Department>
+        <Email>vijaya.sri@example.com</Email>
+    </User>
+
+    <User>
+        <ID>4</ID>
+        <Name>Pooja Sree</Name>
+        <Role>Faculty</Role>
+        <Department>Chemistry</Department>
+        <Email>pooja.sree@example.com</Email>
+    </User>
+
+    <User>
+        <ID>5</ID>
+        <Name>Kiran Patel</Name>
+        <Role>Student</Role>
+        <Department>Mechanical Engineering</Department>
+        <Email>kiran.patel@example.com</Email>
+    </User>
+
+    <User>
+        <ID>6</ID>
+        <Name>Bhavani Sai</Name>
+        <Role>Faculty</Role>
+        <Department>Computer Science Engineering</Department>
+        <Email>bhavani.sai@example.com</Email>
+    </User>
+
+    <User>
+        <ID>7</ID>
+        <Name>Prasad Rao</Name>
+        <Role>Student</Role>
+        <Department>Electronics</Department>
+        <Email>prasad.rao@example.com</Email>
+    </User>
+
+    <User>
+        <ID>8</ID>
+        <Name>Sneha Reddy</Name>
+        <Role>Faculty</Role>
+        <Department>English</Department>
+        <Email>sneha.reddy@example.com</Email>
+    </User>
+
+    <User>
+        <ID>9</ID>
+        <Name>Rohit Ram</Name>
+        <Role>Student</Role>
+        <Department>Civil Engineering</Department>
+        <Email>rohit.ram@example.com</Email>
+    </User>
+
+    <User>
+        <ID>10</ID>
+        <Name>Meera Singh</Name>
+        <Role>Faculty</Role>
+        <Department>Economics</Department>
+        <Email>meera.singh@example.com</Email>
+    </User>
+</Users>
